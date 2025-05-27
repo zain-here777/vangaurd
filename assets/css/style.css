@@ -12,6 +12,9 @@ h1,h2,h3,h4{
     font-family: Georgia;
 }
 
+body{
+    background-color: gray;
+}
 .hero-section {
     background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../images/wp-header-img.png');
     background-size: cover;
@@ -70,8 +73,6 @@ h1,h2,h3,h4{
     margin-bottom: 50px;
 }
 
-.service-icon {
-}
 
 .service-icon i {
     font-size: 28px;
@@ -129,13 +130,13 @@ h1,h2,h3,h4{
     line-height: 1.6;
 }
 
-.services-image {
-    background: url('/lovable-uploads/56f0e02d-63d2-48ea-b474-b6a4b0253909.png');
-    background-size: cover;
-    background-position: center;
-    height: 400px;
-    border-radius: 8px;
-}
+/*.services-image {*/
+/*    background: url('/lovable-uploads/56f0e02d-63d2-48ea-b474-b6a4b0253909.png');*/
+/*    background-size: cover;*/
+/*    background-position: center;*/
+/*    height: 400px;*/
+/*    border-radius: 8px;*/
+/*}*/
 
 .mid-hero-section {
     background: linear-gradient(135deg, #00000080, #00000080), url('../images/schedule-img.png');

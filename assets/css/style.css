@@ -1,3 +1,4 @@
+
 :root {
     --orange-accent: #F88E20;
     --primary-orange: #ff6b35;
@@ -7,8 +8,8 @@
     --bg-light: #f7fafc;
 }
 
-body {
-    background-color: #f7f7f7;
+h1,h2,h3,h4{
+    font-family: Georgia;
 }
 
 .hero-section {
@@ -115,7 +116,7 @@ body {
 
 .benefit-title {
     font-size: 1.1rem;
-    font-weight: 600;
+    font-weight: 500;
     color: var(--text-dark);
     margin-bottom: 10px;
     text-align: center;

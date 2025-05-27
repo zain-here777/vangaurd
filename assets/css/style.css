@@ -8,13 +8,21 @@
     --bg-light: #f7fafc;
 }
 
-h1,h2,h3,h4{
+h1, h2, h3, h4 {
     font-family: Georgia;
 }
 
-body{
+.btn:hover {
+    background-color: #F88E20;
+    opacity: 0.9;
+    border-color: #F88E20 !important;
+    color: white;
+}
+
+body {
     background-color: #efefef;
 }
+
 .hero-section {
     background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../images/wp-header-img.png');
     background-size: cover;

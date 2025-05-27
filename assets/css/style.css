@@ -147,7 +147,7 @@ body {
 /*}*/
 
 .mid-hero-section {
-    background: linear-gradient(135deg, #00000080, #00000080), url('../images/schedule-img.png');
+    background: url('../images/schedule-img.png');
     background-size: cover;
     background-position: center;
     min-height: 400px;
@@ -171,11 +171,11 @@ body {
 }
 
 .testimonial-section {
-    background: linear-gradient(135deg, #00000080, #00000080), url('../images/what-people.png');
+    background: url('../images/what-people.png');
     background-size: cover;
     background-position: center;
     color: white;
-    padding: 80px 0;
+    padding: 110px 0;
 }
 
 #contact {

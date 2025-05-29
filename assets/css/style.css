@@ -190,7 +190,7 @@ body {
     padding: 110px 0;
 }
 
-#contact {
+.contact-section {
     h1 {
         text-align: center;
         color: #1a1a1a;
@@ -243,7 +243,7 @@ body {
         border-right: none;
     }
 
-    .form-control {
+    .form-control,.form-select {
         border: none;
         border-radius: 25px;
         background-color: #ECEAE6;
